@@ -4,4 +4,4 @@ file add change
 
 for merge conflict stuff yep
 
-api yay cause conflict
+api yay
